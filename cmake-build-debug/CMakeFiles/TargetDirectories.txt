@@ -1,0 +1,3 @@
+C:/Users/Samson/OneDrive - samxhavier/Desktop/private_repos/render3d-rt/cmake-build-debug/CMakeFiles/render3d_rt.dir
+C:/Users/Samson/OneDrive - samxhavier/Desktop/private_repos/render3d-rt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Samson/OneDrive - samxhavier/Desktop/private_repos/render3d-rt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
